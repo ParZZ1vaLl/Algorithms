@@ -1,0 +1,16 @@
+C:\Users\NN\source\repos\8Queen\8Queen\bin\Debug\net6.0\8Queen.exe
+C:\Users\NN\source\repos\8Queen\8Queen\bin\Debug\net6.0\8Queen.deps.json
+C:\Users\NN\source\repos\8Queen\8Queen\bin\Debug\net6.0\8Queen.runtimeconfig.json
+C:\Users\NN\source\repos\8Queen\8Queen\bin\Debug\net6.0\8Queen.dll
+C:\Users\NN\source\repos\8Queen\8Queen\bin\Debug\net6.0\ref\8Queen.dll
+C:\Users\NN\source\repos\8Queen\8Queen\bin\Debug\net6.0\8Queen.pdb
+C:\Users\NN\source\repos\8Queen\8Queen\obj\Debug\net6.0\8Queen.GlobalUsings.g.cs
+C:\Users\NN\source\repos\8Queen\8Queen\obj\Debug\net6.0\8Queen.csproj.AssemblyReference.cache
+C:\Users\NN\source\repos\8Queen\8Queen\obj\Debug\net6.0\8Queen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NN\source\repos\8Queen\8Queen\obj\Debug\net6.0\8Queen.AssemblyInfoInputs.cache
+C:\Users\NN\source\repos\8Queen\8Queen\obj\Debug\net6.0\8Queen.AssemblyInfo.cs
+C:\Users\NN\source\repos\8Queen\8Queen\obj\Debug\net6.0\8Queen.csproj.CoreCompileInputs.cache
+C:\Users\NN\source\repos\8Queen\8Queen\obj\Debug\net6.0\8Queen.dll
+C:\Users\NN\source\repos\8Queen\8Queen\obj\Debug\net6.0\ref\8Queen.dll
+C:\Users\NN\source\repos\8Queen\8Queen\obj\Debug\net6.0\8Queen.pdb
+C:\Users\NN\source\repos\8Queen\8Queen\obj\Debug\net6.0\8Queen.genruntimeconfig.cache
