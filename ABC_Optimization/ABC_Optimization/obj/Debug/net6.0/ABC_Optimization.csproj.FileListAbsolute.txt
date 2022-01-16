@@ -1,0 +1,16 @@
+C:\Users\NN\source\repos\ABC_Optimization\ABC_Optimization\obj\Debug\net6.0\ABC_Optimization.GlobalUsings.g.cs
+C:\Users\NN\source\repos\ABC_Optimization\ABC_Optimization\obj\Debug\net6.0\ABC_Optimization.csproj.AssemblyReference.cache
+C:\Users\NN\source\repos\ABC_Optimization\ABC_Optimization\obj\Debug\net6.0\ABC_Optimization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NN\source\repos\ABC_Optimization\ABC_Optimization\obj\Debug\net6.0\ABC_Optimization.AssemblyInfoInputs.cache
+C:\Users\NN\source\repos\ABC_Optimization\ABC_Optimization\obj\Debug\net6.0\ABC_Optimization.AssemblyInfo.cs
+C:\Users\NN\source\repos\ABC_Optimization\ABC_Optimization\obj\Debug\net6.0\ABC_Optimization.csproj.CoreCompileInputs.cache
+C:\Users\NN\source\repos\ABC_Optimization\ABC_Optimization\bin\Debug\net6.0\ABC_Optimization.exe
+C:\Users\NN\source\repos\ABC_Optimization\ABC_Optimization\bin\Debug\net6.0\ABC_Optimization.deps.json
+C:\Users\NN\source\repos\ABC_Optimization\ABC_Optimization\bin\Debug\net6.0\ABC_Optimization.runtimeconfig.json
+C:\Users\NN\source\repos\ABC_Optimization\ABC_Optimization\bin\Debug\net6.0\ABC_Optimization.dll
+C:\Users\NN\source\repos\ABC_Optimization\ABC_Optimization\bin\Debug\net6.0\ref\ABC_Optimization.dll
+C:\Users\NN\source\repos\ABC_Optimization\ABC_Optimization\bin\Debug\net6.0\ABC_Optimization.pdb
+C:\Users\NN\source\repos\ABC_Optimization\ABC_Optimization\obj\Debug\net6.0\ABC_Optimization.dll
+C:\Users\NN\source\repos\ABC_Optimization\ABC_Optimization\obj\Debug\net6.0\ref\ABC_Optimization.dll
+C:\Users\NN\source\repos\ABC_Optimization\ABC_Optimization\obj\Debug\net6.0\ABC_Optimization.pdb
+C:\Users\NN\source\repos\ABC_Optimization\ABC_Optimization\obj\Debug\net6.0\ABC_Optimization.genruntimeconfig.cache
