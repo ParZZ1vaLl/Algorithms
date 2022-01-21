@@ -1,6 +1,0 @@
-C:\Users\Богдан\Desktop\Order\ObstructionGame\Logic\bin\Debug\Logic.dll
-C:\Users\Богдан\Desktop\Order\ObstructionGame\Logic\bin\Debug\Logic.pdb
-C:\Users\Богдан\Desktop\Order\ObstructionGame\Logic\obj\Debug\Logic.csprojAssemblyReference.cache
-C:\Users\Богдан\Desktop\Order\ObstructionGame\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
-C:\Users\Богдан\Desktop\Order\ObstructionGame\Logic\obj\Debug\Logic.dll
-C:\Users\Богдан\Desktop\Order\ObstructionGame\Logic\obj\Debug\Logic.pdb
